@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>Asteroids_BigRock.png</file>
+        <file>spaceship1.png</file>
+        <file>blue bullet.png</file>
+        <file>Game over.png</file>
+        <file>bg5.png</file>
+        <file>Asteroids_SmallRock.png</file>
+        <file>Asteroids_MediumRock.png</file>
+        <file>spaceship2.png</file>
+        <file>bg7.png</file>
+    </qresource>
+</RCC>
