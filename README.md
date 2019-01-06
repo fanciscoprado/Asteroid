@@ -1,3 +1,4 @@
+
 # Asteroids-Project
 
 Version 5.1
@@ -22,3 +23,5 @@ Things to improve upon:
 
 Things to consider:
 * Should the ship's velocity be added to that of the bullet's?
+
+This was a group project worked on my me and 3 other members
